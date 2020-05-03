@@ -1,0 +1,4 @@
+OSSController:
+  create:
+      type: "^\\S.*"
+
